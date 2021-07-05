@@ -7,6 +7,7 @@
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/rajat-jain-a9aa341a6/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Talkative and Fun-loving.
+https://rahuldkjain.github.io/gh-profile-readme-generator/
  -->
  <h1 align="center">Hi 👋, I'm Rajat Jain</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
@@ -23,5 +24,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-jain29&show_icons=true&locale=en&layout=compact" alt="rajat-jain29" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat-jain29&show_icons=true&locale=en" alt="rajat-jain29" /></p>
