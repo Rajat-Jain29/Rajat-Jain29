@@ -1,7 +1,6 @@
   Hola, I'm Rajat Jain! 👋
 
 
-- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Web Development
 - 🤔 I’m looking for help with Java development
 - 💬 Ask me about any tech-related stuff.
