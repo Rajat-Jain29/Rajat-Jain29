@@ -25,4 +25,4 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-jain29&show_icons=true&locale=en&layout=compact" alt="rajat-jain29" /></p>
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat-jain29&&show_icons=true" alt="rajat-jain29" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat-jain29&&show_icons=true" alt="rajat-jain29" /></p>
