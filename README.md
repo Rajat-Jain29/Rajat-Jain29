@@ -23,6 +23,6 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <a href="https://linkedin.com/in/rajat-jain-a9aa341a6/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-jain-a9aa341a6/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-jain29&show_icons=true&locale=en&layout=compact" alt="rajat-jain29" /></p>
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat-jain29&show_icons=true&locale=en&layout=compact" alt="rajat-jain29" /><hr></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat-jain29&&show_icons=true" alt="rajat-jain29" /></p>
