@@ -36,7 +36,7 @@
  <hr>
  
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajat-jain29&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajat-jain29&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats/?align=center)       
          
 
 ---
