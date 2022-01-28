@@ -57,7 +57,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rajat Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajat-jain-a9aa341a6/)](https://www.linkedin.com/in/rajat-jain-a9aa341a6/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rajat_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajat-jain-a9aa341a6/)](https://www.linkedin.com/in/rajat-jain-a9aa341a6/)
 
 [![Gmail Badge](https://img.shields.io/badge/-rajatjain.jain29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajatjain.jain29@gmail.com)](mailto:rajatjain.jain29@gmail.com)
 
