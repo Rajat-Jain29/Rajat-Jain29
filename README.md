@@ -57,7 +57,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-RajatJain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajat-jain-a9aa341a6/)](linkedin.com/in/rajat-jain-a9aa341a6/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rajat Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajat-jain-a9aa341a6/)](linkedin.com/in/rajat-jain-a9aa341a6/)
 
 [![Gmail Badge](https://img.shields.io/badge/-rajatjain.jain29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajatjain.jain29@gmail.com)](mailto:rajatjain.jain29@gmail.com)
 
@@ -72,7 +72,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
  ---
  
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/Rajat Jain/count.svg?align=center)
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=rajat-jain29)  
  
